@@ -1,1 +1,1 @@
-#  A  Businmess Performance_Tracker using python and djkango and mySQL
+#  A  Businmess Performance Tracker using python and django and MySQL
