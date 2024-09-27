@@ -1,1 +1,1 @@
-web: gunicorn performance_tracker.wsgi
+web: gunicorn performance_tracker.wsgi:application
